@@ -1,1 +1,1 @@
-sample push method...!
+sample push method of GIT...!
